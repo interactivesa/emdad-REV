@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="78" height="78" viewBox="0 0 78 78">
+  <g id="slider-arrowR" transform="translate(58.089 52.448) rotate(180)">
+    <g id="Ellipse_9941" data-name="Ellipse 9941" transform="translate(-19.911 -25.552)" fill="#fff" stroke="#080031" stroke-width="1">
+      <circle cx="39" cy="39" r="39" stroke="none"/>
+      <circle cx="39" cy="39" r="38.5" fill="none"/>
+    </g>
+    <path id="Vector" d="M13.468,0,0,13.467,13.468,26.935" transform="translate(0.094 -0.019)" fill="none" stroke="#a70098" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Vector-2" data-name="Vector" d="M37.341,0H0" transform="translate(0.418 13.411)" fill="none" stroke="#a70098" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+  </g>
+</svg>

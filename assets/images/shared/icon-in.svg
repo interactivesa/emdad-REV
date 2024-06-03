@@ -1,0 +1,17 @@
+<svg id="icon-in" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.033" y1="1" x2="0.969" y2="0.051" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#92278f"/>
+      <stop offset="0.139" stop-color="#080031"/>
+      <stop offset="0.421" stop-color="#92278f"/>
+      <stop offset="0.452" stop-color="#92278f"/>
+      <stop offset="0.607" stop-color="#a70098"/>
+      <stop offset="1" stop-color="#11034c"/>
+    </linearGradient>
+  </defs>
+  <rect id="Rectangle_13841" data-name="Rectangle 13841" width="38" height="38" rx="4" fill="url(#linear-gradient)"/>
+  <g id="bxl-linkedin" transform="translate(8.058 8.058)">
+    <circle id="Ellipse_9919" data-name="Ellipse 9919" cx="2.63" cy="2.63" r="2.63" fill="#fff"/>
+    <path id="Path_107300" data-name="Path 107300" d="M10.478,8.916V23.507h4.531V16.291c0-1.9.358-3.748,2.719-3.748,2.328,0,2.357,2.177,2.357,3.868v7.1h4.533v-8c0-3.931-.846-6.951-5.44-6.951a4.764,4.764,0,0,0-4.289,2.356h-.061v-2Zm-7.383,0H7.633V23.507H3.095Z" transform="translate(-2.734 -1.662)" fill="#fff"/>
+  </g>
+</svg>
